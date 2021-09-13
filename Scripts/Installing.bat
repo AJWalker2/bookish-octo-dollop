@@ -1,6 +1,5 @@
 msiexec -i C:\Users\runneradmin\Documents\Applications\openvpn1.msi /qn:
 explorer C:\Users\runneradmin\Documents\Applications\droidcam.exe
-C:\Users\runneradmin\Documents\Applications\HamulSetup.exe
 mv C:\Users\runneradmin\AppData\Local\DiscordCanary C:\Users\runneradmin\DiscordCanary
 rm -rf C:\Users\runneradmin\AppData\Local\DiscordCanary
 mv C:\Users\runneradmin\AppData\Roaming\discordcanary C:\Users\runneradmin\discordcanary2
