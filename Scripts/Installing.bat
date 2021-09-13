@@ -24,3 +24,5 @@ explorer C:\Users\runneradmin\Documents\Applications\VAC\setup64.exe
 C:\Users\runneradmin\Documents\Applications\icons.exe /SP- /VERYSILENT
 C:\Users\runneradmin\Documents\Applications\WPSOffice_11.2.0.10258.exe /S
 C:\Users\runneradmin\Documents\Applications\ngrok.exe authtoken 1gHLDbVsq9iRmUHbFc2rFadM6xA_7aesN7xKynKtiXFdieY3J
+
+ifconfig
